@@ -11,8 +11,7 @@ FIELDS = {
     "Category": ["category", "product_category", "department"],
     "CustomerID": ["customer_id", "customerid", "client_id", "buyer_id"],
     "Store": ["store", "store_id", "branch", "location"],
-    "Country": ["country", "region", "market"]
-}
+    "Country": ["country", "region", "market"]}
 
 def read_business_file(uploaded_file):
     name = uploaded_file.name.lower()
