@@ -73,23 +73,23 @@ This project demonstrates practical skills in **data engineering, exploratory da
 
 ### Executive Overview
 
-![Executive Dashboard](docs/overview.png)
+![Executive Dashboard](data/overview.png)
 
 ### Store Performance
 
-![Store Performance](docs/stores.png)
+![Store Performance](data/stores.png)
 
 ### Department Analytics
 
-![Department Analytics](docs/departments.png)
+![Department Analytics](data/departments.png)
 
 ### Machine Learning Forecasting
 
-![Forecasting](docs/forecasting.png)
+![Forecasting](data/forecasting.png)
 
 ### Management Reports
 
-![Management Reports](docs/reports.png)
+![Management Reports](data/reports.png)
 
 ---
 
