@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+streamlit
+plotly
+openai
+python-dotenv
+reportlab
+matplotlib
+pytest
+pypdf
