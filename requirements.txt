@@ -1,11 +1,10 @@
+streamlit
 pandas
 numpy
-openpyxl
-streamlit
 plotly
-openai
-python-dotenv
-reportlab
+scikit-learn
 matplotlib
-pytest
+reportlab
+openpyxl
 pypdf
+pytest
